@@ -39,7 +39,7 @@ You can run **n8n-clone** using **Docker** for the simplest setup.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/n8n-clone.git](https://github.com/your-username/n8n-clone.git)
+    git clone [https://github.com/topteamOrg/n8n-clone.git](https://github.com/topteamOrg/n8n-clone.git)
     cd n8n-clone
     ```
 
